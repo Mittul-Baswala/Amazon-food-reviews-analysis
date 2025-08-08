@@ -49,13 +49,6 @@ This project demonstrates scalable data analysis using **Dask** on the [Amazon F
 - **Helpfulness Metrics** *(optional)*  
   Investigated how helpfulness ratings relate to review quality.
 
-
-## 📈 Visualizations
-
-- Bar chart of score distribution  
-- Line plot of average score by year  
-- Histogram of review text lengths
-
 ## 🧠 Insights
 
 - Majority of reviews are highly positive (4–5 stars)
@@ -69,5 +62,9 @@ Dask enables efficient processing of large datasets that may be slow or memory-i
 - Parallel execution
 - Real-time performance monitoring via Dask Dashboard.
 
-## Insights
 
+## 📈 Visualizations
+
+- Bar chart of score distribution  
+- Line plot of average score by year
+<img width="764" height="596" alt="Image" src="https://github.com/user-attachments/assets/ef843ad6-71c8-4768-96b8-f514f4976ac3" />  
