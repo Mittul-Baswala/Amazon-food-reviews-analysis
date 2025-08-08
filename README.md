@@ -67,4 +67,5 @@ Dask enables efficient processing of large datasets that may be slow or memory-i
 
 - Bar chart of score distribution  
 - Line plot of average score by year
-<img width="764" height="596" alt="Image" src="https://github.com/user-attachments/assets/ef843ad6-71c8-4768-96b8-f514f4976ac3" />  
+<img width="764" height="596" alt="Image" src="https://github.com/user-attachments/assets/ef843ad6-71c8-4768-96b8-f514f4976ac3" />
+<img width="696" height="589" alt="Image" src="https://github.com/user-attachments/assets/ce11da1a-d683-4905-9f9e-1c2a122d1c92" />
